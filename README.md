@@ -46,7 +46,13 @@ Then open the local URL Vite prints (usually `http://localhost:5173`).
 
 ## Screenshots
 
-_Add 2-3 screenshots here after running the app locally._
+<img width="983" height="1076" alt="image" src="https://github.com/user-attachments/assets/d18ea992-2345-491f-8097-26102efa3958" />
+
+<img width="983" height="1076" alt="image" src="https://github.com/user-attachments/assets/c3f65a54-a000-421b-897a-5c383379d83e" />
+
+<img width="983" height="1076" alt="image" src="https://github.com/user-attachments/assets/75245057-d868-4202-aeeb-14937150a1f8" />
+
+
 
 ## Known Limitations
 
